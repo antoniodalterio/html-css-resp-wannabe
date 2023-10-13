@@ -160,4 +160,12 @@ img {
     }
     
 }
+
+
+@media screen and (min-width: 768px){
+
+    .container{
+        width: 70%;
+    }
+}
          
